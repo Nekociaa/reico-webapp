@@ -1,0 +1,27 @@
+@font-face {
+    font-family: Futura;
+    src: url('/font/futura-med.ttf');
+}
+
+.navbar-reico {
+    background-color: rgb(41, 43, 44);
+}
+
+.navbar-reico h2 {
+    font-family: Futura;
+    color: rgb(162, 159, 159);
+}
+
+h1 {
+    font-family: Futura;
+}
+
+.navbar-reico h2:hover {
+    color: rgb(24, 149, 181);
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover;
+    object-position: 50%;
+}
